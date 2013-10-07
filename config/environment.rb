@@ -12,8 +12,8 @@ config.action_mailer.smtp_settings = {
    port: 587,
    domain: "domain.of.sender.net",
    authentication: "plain",
-   user_name: "dave",
-   password: "secret",
+   user_name: "panos.athens",
+   password: "athens.panos56",
    enable_starttls_auto: true
 }
 

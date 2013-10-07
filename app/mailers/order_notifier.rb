@@ -22,4 +22,9 @@ class OrderNotifier < ActionMailer::Base
 
       mail to: 'Panos <panos.athens56@gmail.com>', subject: 'Pragmatic Store Order Shipped'
   end
+
+  def test
+      mail to: 'Panos <panos.athens56@gmail.com>', subject: 'Pragmatic Store Order Shipped'
+  end
+  
 end
