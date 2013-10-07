@@ -66,6 +66,7 @@ GEM
     mime-types (1.25)
     multi_json (1.8.0)
     netrc (0.7.7)
+    pg (0.17.0)
     polyglot (0.3.3)
     rack (1.4.5)
     rack-cache (1.2)
@@ -126,6 +127,7 @@ DEPENDENCIES
   coffee-rails (~> 3.2.1)
   heroku
   jquery-rails
+  pg
   rails (= 3.2.6)
   sass-rails (~> 3.2.3)
   sqlite3
